@@ -1,6 +1,6 @@
 /* A simple example of a hardware switch debouncer with an interrupt.
 Button should be connected to GND and via switch debouncer into Arduino pin 2 or any interrupt pin.
-Diagram of how to connect a debouncer with an Arduino: https://bit.ly/HSD-ARD */
+Diagram of how to connect a debouncer with an Arduino Nano Every: https://bit.ly/HSD-ARD */
 
 /* Pin usable for interrupt from button 
 connected via hardware switch debouncer */
